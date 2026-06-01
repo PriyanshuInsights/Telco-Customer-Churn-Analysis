@@ -12,6 +12,7 @@ Discover retention opportunities for the telecom company.
 Generate actionable business insights through data visualization.
 
 🛠️ Technologies Used
+
 Python
 Pandas
 NumPy
@@ -20,6 +21,7 @@ Seaborn
 Jupyter Notebook
 
 📂 Dataset Information
+
 The dataset contains customer information including:
 Customer demographics
 Tenure
@@ -33,6 +35,7 @@ Customer Churn Status
 🔍 Data Cleaning & Preprocessing
 
 The following preprocessing steps were performed:
+
 Checked dataset structure and data types.
 Handled missing values in the TotalCharges column.
 Converted TotalCharges to numeric format.
