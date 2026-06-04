@@ -1,3 +1,5 @@
+                                                                Python Project 1
+
 📌 Project Overview
 
 Customer churn is one of the most critical challenges for telecom companies. This project performs an Exploratory Data Analysis (EDA) on the Telco Customer Churn dataset to identify the key factors influencing customer attrition and provide actionable business recommendations for improving customer retention.
@@ -32,6 +34,7 @@ Payment Method
 Internet Services
 Additional Service Subscriptions
 Customer Churn Status
+
 🔍 Data Cleaning & Preprocessing
 
 The following preprocessing steps were performed:
