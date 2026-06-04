@@ -24,7 +24,7 @@ Pandas,
 NumPy,
 Matplotlib,
 Seaborn,
-Jupyter Notebook
+Jupyter Notebook.
 
 📂 Dataset Information
 
