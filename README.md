@@ -59,4 +59,4 @@ Prepared data for visualization and analysis.
 👤 Author
 
 Priyanshu
-Aspiring Data Analyst | Python | SQL|Excel|Power BI | Data Visualization | Exploratory Data Analysis
+Aspiring Data Analyst | Python | SQL | Excel | Power BI | Data Visualization | Exploratory Data Analysis
