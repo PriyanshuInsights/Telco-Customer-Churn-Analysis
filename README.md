@@ -1,4 +1,4 @@
-Python Project 1
+Python Project 
 
 📌 Project Overview
 
